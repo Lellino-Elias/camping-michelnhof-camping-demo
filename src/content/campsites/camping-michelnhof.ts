@@ -43,7 +43,7 @@ const campingMichelnhof: CampsiteConfig = {
     {
       title: "Familiär geführt",
       text: "Ein kleiner, feiner Familienbetrieb, ganzjährig geöffnet (außer November) und auch im Winter leicht erreichbar.",
-      image: { src: `${IMG}/gallery-6c8a228d7f.webp`, alt: "Rezeption des Camping Michelnhof im Abendlicht vor dem verschneiten Wilden Kaiser" },
+      image: { src: `${IMG}/gallery-526fa24986.webp`, alt: "Kinderspielplatz am Camping Michelnhof mit Blick auf den Wilden Kaiser" },
     },
   ],
 
@@ -85,7 +85,7 @@ const campingMichelnhof: CampsiteConfig = {
       {
         title: "Das Michelnhof-Stüberl",
         text: "Frische Spezialitäten auf der Sonnenterrasse mit Kaiserblick — beliebt bei Gästen und Einheimischen.",
-        image: { src: `${IMG}/gallery-a73fe62eee.webp`, alt: "Sonnenterrasse des Michelnhof-Stüberls mit Bergblick" },
+        image: { src: `${IMG}/gallery-a73fe62eee.webp`, alt: "Sonnenterrasse des Michelnhof-Stüberls mit rustikalen Holzbänken" },
       },
       {
         title: "Wintercamping",
@@ -161,7 +161,7 @@ const campingMichelnhof: CampsiteConfig = {
       { src: `${IMG}/gallery-0dd0163f5e.webp`, alt: "Sonnenuntergang über dem Wilden Kaiser hinter den Wiesen des Campingplatzes" },
       { src: `${IMG}/amenity-77de5d7d34.webp`, alt: "Sonnenterrasse mit Blick auf den winterlichen Wilden Kaiser" },
       { src: `${IMG}/gallery-d6b86ace28.webp`, alt: "Verschneite Winterlandschaft am Camping Michelnhof" },
-      { src: `${IMG}/gallery-ca15862f72.webp`, alt: "Gemütlicher Stammtisch auf der Terrasse des Michelnhof-Stüberls" },
+      { src: `${IMG}/gallery-ca15862f72.webp`, alt: "Rustikaler Stammtisch im Michelnhof-Stüberl" },
     ],
   },
 
