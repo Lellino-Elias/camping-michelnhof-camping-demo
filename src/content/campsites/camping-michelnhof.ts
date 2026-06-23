@@ -80,7 +80,7 @@ const campingMichelnhof: CampsiteConfig = {
       {
         title: "Camping am Hof",
         text: "Dein Platz direkt beim historischen Michelnhof — Bauernhof-Atmosphäre mit Bergblick inklusive.",
-        image: { src: `${IMG}/gallery-220388f7aa.webp`, alt: "Wohnwagen vor dem historischen Bauernhaus des Camping Michelnhof" },
+        image: { src: `${IMG}/gallery-220388f7aa.webp`, alt: "Wohnmobil vor dem historischen Bauernhaus des Camping Michelnhof" },
       },
       {
         title: "Das Michelnhof-Stüberl",
